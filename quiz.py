@@ -9,3 +9,5 @@ def quiz():
       print("Correto!")
   else:
       print(f"Errado! A resposta correta é {resposta_correta}")  
+
+mensagem = "Oi, turma!"
